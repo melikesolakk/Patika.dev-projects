@@ -1,0 +1,11 @@
+[2,27,16,22,18,6]     n-1
+[2,6,16,22,18,27]     n-2
+[2,6,16,18,22,27]     1
+
+O(n^2)  = big-O gösterimi
+
+average case n
+worst case [n. (n+1)] /2
+best case 1 
+
+18 average case kapsamına girer.
